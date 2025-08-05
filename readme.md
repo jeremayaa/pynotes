@@ -5,4 +5,4 @@
 ## Install (via pip)
 
 ```bash
-pip install git+https://github.com/yourusername/pynotes.git
+pip install git+https://github.com/jeremayaa/pynotes.git
